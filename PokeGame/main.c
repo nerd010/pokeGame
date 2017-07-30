@@ -2,7 +2,7 @@
 //  main.c
 //  PokeGame
 //
-//  Created by 王增康 on 16/2/21.
+//  Created by chw on 16/2/21.
 //  Copyright © 2016年 CHW. All rights reserved.
 //
 
